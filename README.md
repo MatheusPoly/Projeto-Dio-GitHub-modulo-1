@@ -1,5 +1,5 @@
-# Repositório do desafio de Git/GitHub da Dio
-Projeto final do 1º módulo bootcamp carrefour
+# Desafio de Git/GitHub da Dio bootcamp carrefour
+##Repositório desafio projeto final 
 
 ## Links úteis
 
